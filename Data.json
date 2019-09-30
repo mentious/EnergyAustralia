@@ -1,0 +1,17 @@
+{
+"name"  : "AutumnNight",
+"bands" :[
+{
+"name": "POPBand",
+"recordlabel" : "TMI"
+},
+{
+"name": "ROCKBand",
+"recordlabel" : "SUN"
+},
+{
+"name": "COUNTRYBand",
+"recordlabel" : "RADIO1"
+}
+]
+}
